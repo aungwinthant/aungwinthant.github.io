@@ -1,5 +1,6 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
+@import url('https://fonts.googleapis.com/css?family=Padauk');
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** Remove default margin. */
@@ -252,7 +253,7 @@ td, th { padding: 0; }
 
 * { box-sizing: border-box; }
 
-body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
+body { padding: 0; margin: 0; font-family: "Padauk","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
 
 a { color: #1e6bb8; text-decoration: none; }
 a:hover { text-decoration: underline; }
