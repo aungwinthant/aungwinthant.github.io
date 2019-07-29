@@ -30,7 +30,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: "assets/images/sidebar.jpg"
+sidebar_background_image: "https://www.dropbox.com/s/3fckcponsqsh2b0/sidebar.jpg?raw=1"
 
 BASE_PATH:
 
