@@ -3,7 +3,7 @@ layout: post
 title: My Technological Nightmares Part 2!
 categories: [introduction]
 tags: [me]
-fullview: true
+fullview: false
 comments: false
 ---
 
